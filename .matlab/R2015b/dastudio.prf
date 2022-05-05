@@ -1,0 +1,53 @@
+#
+#DAStudio Preference File
+#
+
+
+[DAStudio DDG]
+DDGFontSize=10
+
+[GLUEEditorPreferences]
+FirstTimeScrollNotification=0
+SuggestQuickInsertNotification=0
+
+[General]
+MatlabRelease=2015b
+
+[LibraryBrowser2]
+LBGeometry4Window=0 53 604 550
+LBListWidth=343
+LBRecentBlock0=Scope
+LBRecentBlock1=Sine Wave
+LBRecentBlock2=Pulse Generator
+LBRecentBlock3=Display
+LBRecentBlock4=Mux
+LBRecentBlock5=Constant
+LBRecentBlock6=Step
+LBRecentBlock7=Scope
+LBRecentName0=simulink/Commonly Used Blocks/Scope
+LBRecentName1=dspsrcs4/Sine Wave
+LBRecentName2=simulink/Sources/Pulse Generator
+LBRecentName3=dspsnks4/Display
+LBRecentName4=simulink/Commonly Used Blocks/Mux
+LBRecentName5=simulink/Commonly Used Blocks/Constant
+LBRecentName6=simulink/Sources/Step
+LBRecentName7=simulink/Sinks/Scope
+LBRecentPath0=Simulink/Commonly Used Blocks
+LBRecentPath1=DSP System Toolbox/Sources
+LBRecentPath2=Simulink/Sources
+LBRecentPath3=DSP System Toolbox/Sinks
+LBRecentPath4=Simulink/Commonly Used Blocks
+LBRecentPath5=Simulink/Commonly Used Blocks
+LBRecentPath6=Simulink/Sources
+LBRecentPath7=Simulink/Sinks
+LBScaleFactor=1
+LBSearchHistory=scope,pulse ,display,Mux,Mix,con,conct,step,
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBSortStyle=0
+LBTreePopupHeight=500
+LBTreePopupWidth=250
+LBTreeWidth=245
+LBUseCache=1
+

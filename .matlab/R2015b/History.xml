@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+<session>
+<command time_stamp="1789f985ae9">%-- 05/04/2021 04:14 --%</command>
+<command execution_time="46">a= 2</command>
+</session>
+<session>
+<command time_stamp="178a455d9b5">%-- 06/04/2021 02:19 --%</command>
+<command execution_time="37">a= 3</command>
+</session>
+<session>
+<command time_stamp="1791de8194d">%-- 29/04/2021 16:53 --%</command>
+<command error="true" execution_time="79" repeat="8">ode45</command>
+</session>
+<session>
+<command time_stamp="1793c216424">%-- 05/05/2021 13:44 --%</command>
+<command execution_time="21">load('1var2.mat')</command>
+<command execution_time="176">lab1</command>
+<command execution_time="19">load('1var2.mat')</command>
+<command execution_time="61" repeat="5">lab1</command>
+<command execution_time="37">load('1var2.mat')</command>
+<command error="true" execution_time="166">lab_1</command>
+<command execution_time="685" repeat="19">Lab1_mod</command>
+</session>
+<session>
+<command time_stamp="1793eb6d454">%-- 06/05/2021 01:47 --%</command>
+<command execution_time="43">clc</command>
+<command execution_time="64">close all</command>
+<command error="true" execution_time="112">lab2.mod</command>
+<command execution_time="23">load('2var2.mat')</command>
+<command error="true" execution_time="84">lab2.mod</command>
+<command execution_time="20">load('2var2.mat')</command>
+<command error="true" execution_time="94">lab2.mod</command>
+<command execution_time="108" repeat="19">Lab2mode</command>
+</session>
+<session>
+<command time_stamp="1793f631d51">%-- 06/05/2021 04:55 --%</command>
+<command error="true" execution_time="420">LR2 ADAM</command>
+<command execution_time="894" repeat="5">Lab2mode</command>
+</session>
+<session>
+<command time_stamp="179533ff8e1">%-- 10/05/2021 01:29 --%</command>
+<command execution_time="41">load('3var2.mat')</command>
+<command execution_time="2541">LR313</command>
+<command execution_time="253">lab1</command>
+<command execution_time="54">load('3var2.mat')</command>
+<command execution_time="44">lab1</command>
+<command execution_time="31">load('3var2.mat')</command>
+<command error="true" execution_time="248">LR3</command>
+<command execution_time="30">load('3var2.mat')</command>
+<command execution_time="1234" repeat="4">LR3</command>
+</session>
+<session>
+<command time_stamp="179592788e5">%-- 11/05/2021 05:00 --%</command>
+<command execution_time="32">load('4var2.mat')</command>
+<command error="true" execution_time="419">LR4 ADAM</command>
+<command execution_time="41" repeat="2">load('4var2.mat')</command>
+<command error="true" execution_time="88">LR4 ADAM</command>
+<command error="true" execution_time="145">LR4 copie</command>
+<command error="true" execution_time="105" repeat="3">lab4</command>
+<command execution_time="48">load('4var2.mat')</command>
+<command error="true" execution_time="71">lab4</command>
+<command error="true" execution_time="96">LR4 ADAM</command>
+</session>
+<session>
+<command time_stamp="1795b0b42a9">%-- 11/05/2021 13:48 --%</command>
+<command execution_time="31">load('4var2.mat')</command>
+<command error="true" execution_time="122">LR4</command>
+<command execution_time="37">load('4var2.mat')</command>
+<command error="true" execution_time="40">LR4</command>
+<command execution_time="43">load('4var2.mat')</command>
+<command error="true" execution_time="19">LR4 ADAM</command>
+<command error="true" execution_time="96">LR4</command>
+<command execution_time="40">load('4var2.mat')</command>
+<command execution_time="1048" repeat="3">SER4</command>
+<command error="true" execution_time="402" repeat="2">ДЗ</command>
+<command error="true" execution_time="165" repeat="8">untitled3</command>
+</session>
+<session>
+<command time_stamp="179630b6924">%-- 13/05/2021 03:06 --%</command>
+<command execution_time="42">load('5var2 copie.mat')</command>
+<command error="true" execution_time="145">LR5</command>
+<command execution_time="86">load('/Users/adamtameer/Documents/lesson/Моделирование/Моделирование (данные для 5 ЛР)_2021/Варианты для ЛР5/5var2.mat')</command>
+<command error="true" execution_time="172" repeat="2">LR5 art</command>
+<command error="true" execution_time="153">untitl5ed</command>
+<command execution_time="41">load('5var2 copie.mat')</command>
+<command error="true" execution_time="159">untitl5ed</command>
+<command execution_time="37">load('/Users/adamtameer/Documents/MATLAB/5var2 copie.mat')</command>
+<command error="true" execution_time="132" repeat="3">untitled2</command>
+<command error="true" execution_time="350">Lab1_mod copie</command>
+<command execution_time="1529">Lab2mode</command>
+<command execution_time="43">load('/Users/adamtameer/Documents/MATLAB/5var2 copie.mat')</command>
+<command execution_time="79">Lab2mode</command>
+<command execution_time="1237" repeat="3">untitl5ed</command>
+<command execution_time="135">untitled3</command>
+</session>
+<session>
+<command time_stamp="17969b733e0">%-- 14/05/2021 10:11 --%</command>
+<command execution_time="40">load('4var2.mat')</command>
+<command execution_time="55">a = [0.4;1.6;8.7]</command>
+<command execution_time="33">b=[5.1;3.9;7.6]</command>
+<command error="true" execution_time="140">y = [1 2 3 4 5 ;1 0 9 8 7 ;7 9 0 5 7 8]</command>
+<command execution_time="63">y = [1 2 3;4 5 6;7 8 9]</command>
+<command execution_time="81">y = [2 4 0.4 0.6 0.23 0.46 0.15 0.17 1.6 1.8 2 3;6  0.1 10 10.2 11.31 10.62 11.55 11.49 7.2 6.6 6 3;8 12 4.8 5.2 4.46 4.92 4.3 4.34 7.2 7.6 8 10]</command>
+<command execution_time="50">y</command>
+<command error="true" execution_time="56">y2 = y(:2)</command>
+<command execution_time="75">y2 = y(:,2)</command>
+<command execution_time="33">y = [1 2 3; 0 2 3;1 3 4 ; 0 9 8 ]</command>
+<command execution_time="83">y = [2.0000 4.0000 0.4000 0.6000 0.2300 0.4600 0.1500 0.1700 1.6000 1.8000 2.0000 3.0000;6.0000 1.0100 10.8000 10.2000 11.3100 10.6200 11.5500 11.4900 7.200 6.6000 6.0000 3.0000;8.0000 12.0000 4.8000 5.2000 4.4600 4.9200 4.3000 4.3400 7.2000 7.6000 8.0000 10.0000]</command>
+<command execution_time="30">a = [1 2 3]</command>
+<command execution_time="31">a1 = [1,2,3]</command>
+<command execution_time="31">b = [1;2;3]</command>
+<command execution_time="32">a = [0.4 ;2.3;1.6;8.7]</command>
+<command execution_time="32">b = [5.1;3.9;8.2;3]</command>
+<command execution_time="35">ab = [a;b]</command>
+<command execution_time="40">b(4)</command>
+<command error="true" execution_time="59">k = 1 .2 3.2 4.3 5.4 6.5 7.6 8.7];</command>
+<command execution_time="61">k = [1.2 3.2 4.3 5.4 6.5 7.6 8.7];</command>
+<command execution_time="75">k2 = [2 3 2; 2 8 0 ; 2 3 4; 4 2 1 ]</command>
+<command error="true" execution_time="63">kcped = (k:,2)</command>
+<command execution_time="70">k = mean(k2)</command>
+<command execution_time="80">y = [2.0 3.1 4.3 4.5 5.6]</command>
+<command execution_time="33">y = [2.0; 3.1; 4.3; 4.5; 5.6]</command>
+<command execution_time="34">n = size(y)</command>
+<command execution_time="39">y1 = [2.0 3.1 4.3 4.5 5.6;1.2 2.3 3.4 4.5 5.6]</command>
+<command error="true" execution_time="62">y1 = [2.0; 3.1; 4.3 ;4.5; 5.6 1.2; 2.3; 3.4; 4.5; 5.6]</command>
+<command error="true" execution_time="55">y1 = [2.0; 3.1; 4.3 ;4.5; 5.6  1.2; 2.3; 3.4; 4.5; 5.6]</command>
+<command execution_time="73">y1 = [2.0;3.1; 1.2;2.3]</command>
+<command error="true" execution_time="66">y2= [1.2; 2.3;4.5 6.5;7.6 8.6]</command>
+<command error="true" execution_time="168">y2</command>
+<command execution_time="69">y2 = [-1 3 4;3 5 6]</command>
+<command error="true" execution_time="129">y3</command>
+<command execution_time="79">y3= [1.2 2.3 4.5 6.7]</command>
+<command execution_time="72">y3= [1.2 2.3 4.5 6.7;2.1 23. 3.1 2.1]</command>
+<command batch="1" error="true">y = [2 6 8;2 0.1 12;0.4 10 12;</command>
+<command batch="1" error="true" execution_time="77">y = [2 6 8;2 0.1 12;0.4 10 12;0.4 10 4.8;0.6 10.2 5.2;0.23 11.31 4.46;0.46 10.62 4.92;0.15 11.55 4.3;0.17 11.49 4.34;1.6 7.2 7.2;1.8 6.6 7.6;2 6 8;3 3 10]</command>
+<command execution_time="78">y=[2 6 8;2 0.1 12;0.4 10 12;0.4 10 4.8;0.6 10.2 5.2;0.23 11.31 4.46;0.46 10.62 4.92;0.15 11.55 4.3;0.17 11.49 4.34;1.6 7.2 7.2;1.8 6.6 7.6;2 6 8;3 3 10]</command>
+<command execution_time="64">dd=y(2,:)</command>
+<command execution_time="69">y1=[2 6 8;4 0.1 12;0.4 10 12;0.4 10 4.8;0.6 10.2 5.2;0.23 11.31 4.46;0.46 10.62 4.92;0.15 11.55 4.3;0.17 11.49 4.34;1.6 7.2 7.2;1.8 6.6 7.6;2 6 8;3 3 10]</command>
+<command error="true" execution_time="77">dd=(y1,:)</command>
+<command execution_time="73">dd=y(2,:)</command>
+<command execution_time="76">dd1=y1(2,:)</command>
+<command execution_time="77">YC= sum(y1)</command>
+<command execution_time="34">y1= [2;4;0.4;0.6;0.23;0.46;0.15;0.17;1.6;1.8;2;3]</command>
+<command execution_time="36">N= size(y1)</command>
+<command execution_time="37">sr = sum(y1)./N</command>
+<command execution_time="37">SR=sr(1,1)</command>
+<command execution_time="59">dis=sum((y1-SR).^2)/11</command>
+<command execution_time="65">y=[2 6 8;4 0.1 12;0.4 10 12;0.4 10 4.8;0.6 10.2 5.2;0.23 11.31 4.46;0.46 10.62 4.92;0.15 11.55 4.3;0.17 11.49 4.34;1.6 7.2 7.2;1.8 6.6 7.6;2 6 8;3 3 10]</command>
+<command execution_time="91">dd=y(2,:)</command>
+<command execution_time="76">Y=sum (y') % сумма по строкам</command>
+<command execution_time="79">YC=Y./3</command>
+<command execution_time="98">X = [1.2;2.3;3.4;4.5]</command>
+<command execution_time="73">V=[1.01 1.02 1.03;2.02 2.03 2.04;3.03 3.04 3.05]</command>
+<command execution_time="68">x1 = 1.2;</command>
+<command execution_time="75">x2 = 2.3;</command>
+<command execution_time="66">x3 = 3.4;</command>
+<command execution_time="71">x4 = 4.5;</command>
+<command execution_time="64">X=[x1;x2;x3;x4]</command>
+<command execution_time="548">w1=(12 + 4)/3;</command>
+<command execution_time="61">w2 = exp(4);</command>
+<command execution_time="77">w3 = sqrt(21);</command>
+<command execution_time="66">W = [ w1 w2 w3 ]</command>
+<command execution_time="62">X=[x1 x2 x3 x4]</command>
+<command execution_time="80">V = V(2,:)</command>
+<command execution_time="74">V = V(:,2)</command>
+<command error="true" execution_time="95">Z = V(:,2) % Второй столбца</command>
+<command error="true" execution_time="72">V = V(2,:)</command>
+<command error="true" execution_time="48">V = [1,.01 1.02 1.03;2.02 2.03 2.04;3.03 3.04 3.05]</command>
+<command execution_time="38">V = [1.01 1.02 1.03;2.02 2.03 2.04;3.03 3.04 3.05]</command>
+<command execution_time="42">V2line = V(2,:) % второй сторка</command>
+<command execution_time="47">V2col = V(:,2)</command>
+<command execution_time="45">V2line = V(2,:);% второй сторка</command>
+<command execution_time="52">V2col = V(:,2) % второй столбца</command>
+<command batch="2" error="true" repeat="2">V = [1.01 1.02 1.03;2.02 2.03 2.04;3.03 3.04 3.05]</command>
+<command batch="2" error="true">V =</command>
+<command batch="2" error="true">1.0100    1.0200    1.0300</command>
+<command batch="2" error="true">2.0200    2.0300    2.0400</command>
+<command batch="2" error="true">3.0300    3.0400    3.0500</command>
+<command batch="2" error="true">V2line = V(2,:) % второй сторка</command>
+<command batch="2" error="true">V2line =</command>
+<command batch="2" error="true">2.0200    2.0300    2.0400</command>
+<command batch="2" error="true">V2col = V(:,2)</command>
+<command batch="2" error="true">V2col =</command>
+<command batch="2" error="true">1.0200</command>
+<command batch="2" error="true">2.0300</command>
+<command batch="2" error="true">3.0400</command>
+<command batch="2" error="true">V2line = V(2,:);% второй сторка</command>
+<command batch="2" error="true">V2col = V(:,2) % второй столбца</command>
+<command batch="2" error="true">V2col =</command>
+<command batch="2" error="true">1.0200</command>
+<command batch="2" error="true">2.0300</command>
+<command batch="2" error="true" execution_time="136">3.0400</command>
+<command execution_time="69">V2line = V(2,:) % второй сторка</command>
+<command execution_time="67">V2col = V(:,2) % второй столбца</command>
+<command execution_time="71">V(3)</command>
+<command execution_time="62">V(5)</command>
+<command execution_time="59">V(8)</command>
+<command execution_time="91">V22 = V(2)</command>
+<command execution_time="68">V022=V(2,2)</command>
+<command execution_time="38">x1 = 1.2;</command>
+<command execution_time="32">x2 = 2.3;</command>
+<command execution_time="31">x3 = 3.4;</command>
+<command execution_time="33">x4 = 4.5;</command>
+<command execution_time="37">X = [x1,x2,x3,x4]</command>
+<command execution_time="49">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="42">w1 = (12 + 4)/3;</command>
+<command execution_time="39">w2 = exp(4);</command>
+<command execution_time="41">w3 = sqrt(21);</command>
+<command execution_time="54">W = [w1 w2 w3]</command>
+<command batch="3" error="true">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command batch="3" error="true">V =</command>
+<command batch="3" error="true">0.1000    0.2000    0.3000</command>
+<command batch="3" error="true">1.1000    1.2000    1.3000</command>
+<command batch="3" error="true" execution_time="74">2.1000    2.2000    2.3000</command>
+<command execution_time="33">V2line = V (2,2) % значения второго столбца</command>
+<command execution_time="32">V(3)</command>
+<command execution_time="25">V(5)</command>
+<command execution_time="33">V(8)</command>
+<command execution_time="30">Vline2 = V(2,:) % все значение из 2-ого столбца матрица V</command>
+<command execution_time="33">Vcol2 = V(:,2) % все значение из 2-ого столбца матрица V</command>
+<command execution_time="32">Vline2 = V(2,:) % все значение из 2-ого строка матрица V</command>
+<command execution_time="32">V(:,3)</command>
+<command execution_time="32">V(3,:)</command>
+<command execution_time="35">a = 3;</command>
+<command execution_time="35">VW = [ V V+a;(V+a)/2 (V-a)/2]</command>
+<command execution_time="35">SVcol = sum(V)</command>
+<command execution_time="55">[0.100000000000000,0.200000000000000,0.300000000000000;1.10000000000000,1.20000000000000,1.30000000000000;2.10000000000000,2.20000000000000,2.30000000000000]</command>
+<command execution_time="42">SVcol = sum(V)</command>
+<command execution_time="36" repeat="2">V'</command>
+<command execution_time="34">SumVline = sum(V')</command>
+<command execution_time="54">[0.100000000000000,0.200000000000000,0.300000000000000;1.10000000000000,1.20000000000000,1.30000000000000;2.10000000000000,2.20000000000000,2.30000000000000]</command>
+<command execution_time="43">SumVline = sum(V')</command>
+<command execution_time="49">[0.100000000000000,0.200000000000000,0.300000000000000;1.10000000000000,1.20000000000000,1.30000000000000;2.10000000000000,2.20000000000000,2.30000000000000]</command>
+<command execution_time="40">CM = 2*V</command>
+<command execution_time="501">C = CM*V</command>
+<command execution_time="34">x1 = 1.2;</command>
+<command execution_time="30">x2 = 2.3;</command>
+<command execution_time="34">x3 = 3.4;</command>
+<command execution_time="37">x4 = 4.5;</command>
+<command execution_time="34">X = [x1,x2,x3,x4]</command>
+<command execution_time="54" repeat="2">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="32">w1 = (12 + 4)/3;</command>
+<command execution_time="33">w2 = exp(4);</command>
+<command execution_time="31">w3 = sqrt(21);</command>
+<command execution_time="36">W = [w1 w2 w3]</command>
+<command execution_time="37">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="36">V22 = V(2,2) % значения V из второго стобца и второй строки</command>
+<command execution_time="31">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="39">V(3)</command>
+<command execution_time="54">V(5)</command>
+<command execution_time="39">V(8)</command>
+<command batch="4">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command batch="4" execution_time="48">%все значения V из второго столбца</command>
+<command execution_time="37">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="37">Vcol = V(:,2) % все значения V из второго столбца</command>
+<command execution_time="36">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="36">V3line = V(3,:)</command>
+<command execution_time="33">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="38">V(:,3)</command>
+<command execution_time="39">V(3,:)</command>
+<command execution_time="34">a = 3;</command>
+<command execution_time="37">VW = [ V V+ a; (V+a)/2 (V-a)/2]</command>
+<command execution_time="41">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="48">SumVcol = sum(V) %сумму по столбцам матрицы V</command>
+<command execution_time="36">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="37">Vtrans = [V']% Транспонирования матрицы V</command>
+<command execution_time="38">V = [0.1 0.2 0.3;1.1 1.2 1.3;2.1 2.2 2.3]</command>
+<command execution_time="41">Vline = sum(V')  %  сумму матрицы V по строкам</command>
+<command execution_time="59">CM = 2*V</command>
+<command execution_time="33">C = CM*V</command>
+<command execution_time="37">C= CM.*V</command>
+<command execution_time="37">sqrt(-1)</command>
+<command execution_time="36">x = 0:0.3:9;</command>
+<command execution_time="58">cos(x + 0.1)</command>
+<command execution_time="33">x = 0:0.3:9;</command>
+<command execution_time="36">y = cos(x + 0.1);</command>
+<command execution_time="1113">plot(x,y)</command>
+<command execution_time="37">x = 0:0.3:9;</command>
+<command execution_time="37">y = cos(x + 0.1);</command>
+<command execution_time="82">plot(x,y)</command>
+<command execution_time="36" repeat="2">x = 0:0.3:9;</command>
+<command error="true" execution_time="192">plot9x,cos(x+0.1)</command>
+<command execution_time="82">plot(x,cos(x+0.1))</command>
+<command execution_time="81">plot(x+0.1)</command>
+<command execution_time="79">plot(cos(x+0.1))</command>
+<command execution_time="38">x = 0:0.3:9;</command>
+<command execution_time="41">z = sin(x+0.5);</command>
+<command execution_time="78">plot(x,z)</command>
+<command execution_time="39">x = 0:0.3:9;</command>
+<command execution_time="42">z = sin(x+0.5);</command>
+<command execution_time="83">plot(x,y,x,z)</command>
+<command execution_time="49">x = 0:0.3:9;</command>
+<command execution_time="50">y = cos(x + 0.1);</command>
+<command execution_time="42">z = sin(x+0.5);</command>
+<command execution_time="83">plot(x,y)</command>
+</session>
+<session>
+<command time_stamp="17975a7e6b5">%-- 16/05/2021 17:50 --%</command>
+<command execution_time="44">x = 0:0.3:10;</command>
+<command execution_time="567">plot(x,cos(x))</command>
+<command execution_time="50">x = 0:0.3:9;</command>
+<command execution_time="41">y = cos(x + 0.1);</command>
+<command execution_time="101">plot(x,cos(x+0.1))</command>
+<command execution_time="40">z = sin(x+0.5);</command>
+<command execution_time="107">plot(x,y,x,z)</command>
+<command execution_time="32">x = 0:0.3:9;</command>
+<command execution_time="33">y1 = sin(x);</command>
+<command execution_time="33">y2=cos(x);</command>
+<command execution_time="84">plot(x,y1,x,y2)</command>
+<command error="true" execution_time="42" repeat="6">vdp15</command>
+<command batch="5" error="true">[t,y]=ode45(@ODY,[0 1.4],[0 0 0 30 0 0 10 20]);</command>
+<command batch="5" error="true">plot(t,y)</command>
+<command batch="5" error="true">function dydt=vdp15(t,y)</command>
+<command batch="5" error="true">V = 3</command>
+<command batch="5" error="true">G1 = 3</command>
+<command batch="5" error="true">G2 = 2</command>
+<command batch="5" error="true">G3 = 5</command>
+<command batch="5" error="true">Ca1 = 10</command>
+<command batch="5" error="true">Cb1 = 20</command>
+<command batch="5" error="true" execution_time="120">dydt = [(G1*Ca1 - G3*y(1))/V;(G2*Cb1-G3*y(2))/V];</command>
+<command error="true" execution_time="53">[t,y]=ode45(@ODY,[0 1.4],[0 0 0 30 0 0 10 20]);</command>
+<command error="true" execution_time="117">plot(t,y)</command>
+<command error="true" execution_time="158">Solver copie</command>
+<command error="true" execution_time="221">untitled2</command>
+<command error="true" execution_time="115" repeat="5">vdp25</command>
+<command error="true" execution_time="121" repeat="4">untitled4</command>
+<command error="true" execution_time="133">Solver copie</command>
+<command error="true" execution_time="121">primer1</command>
+</session>
+<session>
+<command time_stamp="17976e7a279">%-- 16/05/2021 23:39 --%</command>
+<command error="true" execution_time="348">untitled2</command>
+</session>
+<session>
+<command time_stamp="17976ec7711">%-- 16/05/2021 23:44 --%</command>
+<command error="true" execution_time="34" repeat="2">untitled</command>
+<command batch="6" error="true" repeat="2">figure</command>
+<command batch="6" error="true">plot(t,z,'-k');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,1),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z1');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,2),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z2');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,3),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z3');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,4),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z4');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,5),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z5');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,6),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z6');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,7),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z7');</command>
+<command batch="6" error="true">grid;</command>
+<command batch="6" error="true">figure</command>
+<command batch="6" error="true">plot(t,z(:,8),'o-');</command>
+<command batch="6" error="true">xlabel('t');</command>
+<command batch="6" error="true">ylabel('z8');</command>
+<command batch="6" error="true" execution_time="396">grid;</command>
+</session>
+<session>
+<command time_stamp="179773cf716">%-- 17/05/2021 01:12 --%</command>
+<command execution_time="43">x = 0:0.3:9;</command>
+<command execution_time="44">y1=sin(x);</command>
+<command execution_time="32">y2=cos(x);</command>
+<command execution_time="378">plot(x,y1,x,y2)</command>
+<command execution_time="38">V=3;</command>
+<command execution_time="35">G1 = 3;</command>
+<command execution_time="43">G2 = 2;</command>
+<command execution_time="35">G3 = 5;</command>
+<command execution_time="39">Ca1 = 10;</command>
+<command execution_time="37">Cb1 = 20;</command>
+<command error="true" execution_time="89">vdp150</command>
+<command error="true" execution_time="43">vdp15</command>
+<command error="true" execution_time="146">vdp150</command>
+<command error="true" execution_time="229" repeat="3">vdp250</command>
+</session>
+<session>
+<command time_stamp="1797774d03d">%-- 17/05/2021 02:13 --%</command>
+<command error="true" execution_time="76">vdp250</command>
+<command error="true" execution_time="124" repeat="2">vdp26</command>
+<command error="true" execution_time="111" repeat="3">vdp26(t, y)</command>
+<command error="true" execution_time="105" repeat="3">untitled2</command>
+</session>
+<session>
+<command time_stamp="1797d19cc0f">%-- 18/05/2021 04:31 --%</command>
+<command error="true" execution_time="348" repeat="2">untitled</command>
+<command error="true" execution_time="46" repeat="2">vdp15</command>
+<command error="true" execution_time="61" repeat="3">zadaniya5</command>
+<command execution_time="492">untitled4</command>
+<command error="true" execution_time="51" repeat="3">zadaniya5</command>
+</session>
+<session>
+<command time_stamp="1798ea39315">%-- 21/05/2021 14:15 --%</command>
+<command execution_time="61">load('/Users/adamtameer/Documents/lesson/Моделирование/Моделирование (данные для 5 ЛР)_2021/Варианты для ЛР5/5var8.mat')</command>
+<command error="true" execution_time="168" repeat="2">LR5 art</command>
+</session>
+<session>
+<command time_stamp="179c93c19ac">%-- 01/06/2021 23:20 --%</command>
+</session>
+<session>
+<command time_stamp="179c94428c5">%-- 01/06/2021 23:29 --%</command>
+</session>
+<session>
+<command time_stamp="179cc09a7d4">%-- 02/06/2021 12:24 --%</command>
+</session>
+<session>
+<command time_stamp="179e672fae6">%-- 07/06/2021 15:29 --%</command>
+</session>
+<session>
+<command time_stamp="17a8b52ece2">%-- 09/07/2021 15:51 --%</command>
+</session>
+<session>
+<command time_stamp="17bca41c8a6">%-- 09/09/2021 14:11 --%</command>
+</session>
+<session>
+<command time_stamp="17e53aa85a0">%-- 13/01/2022 16:39 --%</command>
+</session>
+<session>
+<command time_stamp="17e53b356b6">%-- 13/01/2022 16:49 --%</command>
+<command execution_time="31">a = 9</command>
+<command execution_time="46">a  = 6</command>
+</session>
+<session>
+<command time_stamp="17e54160cc7">%-- 13/01/2022 18:37 --%</command>
+</session>
+<session>
+<command time_stamp="17e54213886">%-- 13/01/2022 18:49 --%</command>
+<command execution_time="209" repeat="2">untitled</command>
+</session>
+<session>
+<command time_stamp="17e543d4ad8">%-- 13/01/2022 19:20 --%</command>
+</session>
+<session>
+<command time_stamp="17e544c40cb">%-- 13/01/2022 19:36 --%</command>
+</session>
+<session>
+<command time_stamp="17e544c7c82">%-- 13/01/2022 19:36 --%</command>
+</session>
+<session>
+<command time_stamp="17e544e4001">%-- 13/01/2022 19:38 --%</command>
+</session>
+</history>
